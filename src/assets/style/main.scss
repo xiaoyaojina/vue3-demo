@@ -1,0 +1,6 @@
+$test-color: red;
+@mixin flexCss {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
